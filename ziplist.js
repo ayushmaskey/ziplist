@@ -1,4 +1,5 @@
-
+// 1st try (26min DNF) - could figure out underscore solution
+// 2nd try (15min) - getting used to command line git
 
 function ziplist(listOne, listTwo) {
   const newArray = [];
